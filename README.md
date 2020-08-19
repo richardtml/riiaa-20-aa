@@ -5,5 +5,5 @@
 En este repositorio encontrarás los materiales para el taller en la RIIAA 20.
 
 - [Avance](avance.mp4)
-- [Diaposivas](github.com/richardtml/riiaa-20-aa/slides.pdf)
-- [Libretas](github.com/richardtml/riiaa-20-aa/notebooks)
+- [Diaposivas](slides.pdf)
+- [Libretas](notebooks)
