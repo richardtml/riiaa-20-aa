@@ -6,6 +6,6 @@ En este repositorio encontrarás los materiales para el taller en la RIIAA 20.
 
 - [Avance](avance.mp4)
 - Diapositivas
-  - [Aprendizaje Profundo](1_ap.pdf)
+  - [Aprendizaje Profundo](1_intro_ap.pdf)
   - [Aprendizaje Autosupervisado](2_auto.pdf)
 - [Libretas](notebooks)
